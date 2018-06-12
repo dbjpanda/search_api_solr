@@ -71,5 +71,4 @@ configuration or through the use of a firewall.
 Other options include adding basic HTTP authentication or renaming the solr/
 directory to a random string of characters and using that as the path.
 
-Now you can go on and setup and configure the connection within your Drupal
-installation.
+
